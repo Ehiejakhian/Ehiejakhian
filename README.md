@@ -3,8 +3,7 @@
 [![Website](https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge&logo=google-chrome)](https://ehiejakhian.github.io/) [![Email](https://img.shields.io/badge/email-ehiejakhian@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ehiejakhian@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ng.linkedin.com/in/ehi-ejakhian-2302a7318) [![Upwork](https://img.shields.io/badge/Upwork-Freelancer-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01287f253aaa0dc476)
 
 Hello — I'm Ehi. I build clear, responsive front‑end experiences and keep my hands busy sketching. I'm from Edo State, Nigeria, studying Computer Engineering and learning embedded systems (Arduino Uno, ESP32). I enjoy small, focused projects that teach me something new every week.
-
-**Core skills**
+## Core skills**
 I haven't taken any tests to proove this but, here's a percentile of my skills.
 
 <style>
@@ -62,8 +61,9 @@ I haven't taken any tests to proove this but, here's a percentile of my skills.
     </div>
   </div>
 </div>
-- HTML — 95% • CSS — 92% • SCSS — 70% • JavaScript — 32% • React — 20% • PHP — 32% • JQuery — 33%
-**Featured projects**
+
+
+## Featured projects**
 
 - Javascript Calculator
 	- Live: https://ehiejakhian.github.io/My-First-JS-Calculator/
@@ -81,17 +81,14 @@ I haven't taken any tests to proove this but, here's a percentile of my skills.
 	- Live: https://ehiejakhian.github.io/Huddle-landing-page-with-a-single-introductory-section/
 
 More projects: https://ehiejakhian.github.io/dist/html/more_projects.html
-
-**Education**
+## Education**
 - National Institute of Construction Technology and Management (NICTM)
 - Holy Trinity Secondary School
 - Akhile Primary School
-
-**Testimonials**
+## Testimonials**
 - “Ehi gives life to webpages — creative, hardworking, and detail oriented.” — Akhere Sylvester
 - “Committed and honest, meets deadlines.” — Ogun Lilian
-
-**Connect with me**
+## Connect with me**
 - Website: https://ehiejakhian.github.io/
 - Email: ehiejakhian@gmail.com
 - Whatsapp: https://wa.me/+2348142340182?text=Hello%20Ehi.%20I%20checked%20your%20website.%20
