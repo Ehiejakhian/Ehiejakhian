@@ -7,6 +7,10 @@ Hello — I'm Ehi. I build clear, responsive front‑end experiences and keep my
 I haven't taken any tests to proove this but, here's a percentile of my skills.
 
 <style>
+	@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+	* {
+		font-family: 'Outfit';
+	}
   .skills {
     font-family: Arial, sans-serif;
     max-width: 600px;
@@ -111,4 +115,3 @@ Profile README & live badges
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehiejakhian&layout=compact&theme=default)
 
-If you'd like this as your GitHub profile README, copy the contents of `PROFILE_README.md` into the `README.md` of a repo named after your GitHub username (e.g., `Ehiejakhian/Ehiejakhian`). I created `PROFILE_README.md` here as a ready-to-use file.
