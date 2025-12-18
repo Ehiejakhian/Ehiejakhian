@@ -5,8 +5,64 @@
 Hello — I'm Ehi. I build clear, responsive front‑end experiences and keep my hands busy sketching. I'm from Edo State, Nigeria, studying Computer Engineering and learning embedded systems (Arduino Uno, ESP32). I enjoy small, focused projects that teach me something new every week.
 
 **Core skills**
-- HTML — 95% • CSS — 92% • SCSS — 70% • JavaScript — 32%
+I haven't taken any tests to proove this but, here's a percentile of my skills.
 
+<style>
+  .skills {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  .skill-bar {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    margin: 10px 0;
+    overflow: hidden;
+  }
+  .skill-level {
+    height: 24px;
+    line-height: 24px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+  }
+  .html { background-color: #e34c26; }
+  .css { background-color: #264de4; }
+  .scss { background-color: #cd6799; }
+  .js { background-color: #f0db4f; color: black; }
+  .react { background-color: #61dafb; color: black; }
+  .php { background-color: #8993be; }
+  .jquery { background-color: #0769ad; }
+
+</style>
+
+<div class="skills">
+  <h2>Skills</h2>
+	<div>
+    <div class="skill-bar">
+      <div class="skill-level html" style="width: 95%;">HTML — 95%</div>
+    </div>
+    <div class="skill-bar">
+      <div class="skill-level css" style="width: 92%;">CSS — 92%</div>
+    </div>
+    <div class="skill-bar">
+      <div class="skill-level scss" style="width: 70%;">SCSS — 70%</div>
+    </div>
+    <div class="skill-bar">
+      <div class="skill-level js" style="width: 32%;">JavaScript — 32%</div>
+    </div>
+    <div class="skill-bar">
+      <div class="skill-level" style="width: 20%; background-color: #61dafb; color: black;">React — 20%</div>
+    </div>
+    <div class="skill-bar">
+      <div class="skill-level" style="width: 32%; background-color: #8993be;">PHP — 32%</div>
+    </div>
+    <div class="skill-bar">
+      <div class="skill-level" style="width: 33%; background-color: #0769ad;">JQuery — 33%</div>
+    </div>
+  </div>
+</div>
+- HTML — 95% • CSS — 92% • SCSS — 70% • JavaScript — 32% • React — 20% • PHP — 32% • JQuery — 33%
 **Featured projects**
 
 - Javascript Calculator
