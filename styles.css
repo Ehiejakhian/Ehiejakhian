@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+* {
+  font-family: 'Outfit';
+}
+.skills {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 20px auto;
+}
+.skill-bar {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  margin: 10px 0;
+  overflow: hidden;
+}
+.skill-level {
+  height: 24px;
+  line-height: 24px;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+}
+.html { background-color: #e34c26; }
+.css { background-color: #264de4; }
+.scss { background-color: #cd6799; }
+.js { background-color: #f0db4f; color: black; }
+.react { background-color: #61dafb; color: black; }
+.php { background-color: #8993be; }
+.jquery { background-color: #0769ad; }
+
