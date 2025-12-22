@@ -1,11 +1,11 @@
-<link rel="stylesheet" href="styles.css"/>
 # Ejakhian Ehi — Front‑End Developer & Sketch Artist
+<link rel="stylesheet" href="styles.css"/>
 
 [![Website](https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge&logo=google-chrome)](https://ehiejakhian.github.io/) [![Email](https://img.shields.io/badge/email-ehiejakhian@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ehiejakhian@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ng.linkedin.com/in/ehi-ejakhian-2302a7318) [![Upwork](https://img.shields.io/badge/Upwork-Freelancer-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01287f253aaa0dc476)
 
 Hello — I'm Ehi. I build clear, responsive front‑end experiences and keep my hands busy sketching. I'm from Edo State, Nigeria, studying Computer Engineering and learning embedded systems (Arduino Uno, ESP32). I enjoy small, focused projects that teach me something new every week.
 ## Core skills
-I haven't taken any tests to proove this but, here's a percentile of my skills.
+I haven't taken any tests to proove this but, here's a percentile of my skills (a decent personal rating).
 
 <div class="skills">
   <h2>My Skills</h2>
