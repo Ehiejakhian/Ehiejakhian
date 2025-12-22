@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css"/>
 # Ejakhian Ehi — Front‑End Developer & Sketch Artist
 
 [![Website](https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge&logo=google-chrome)](https://ehiejakhian.github.io/) [![Email](https://img.shields.io/badge/email-ehiejakhian@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ehiejakhian@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ng.linkedin.com/in/ehi-ejakhian-2302a7318) [![Upwork](https://img.shields.io/badge/Upwork-Freelancer-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01287f253aaa0dc476)
@@ -6,41 +7,8 @@ Hello — I'm Ehi. I build clear, responsive front‑end experiences and keep my
 ## Core skills
 I haven't taken any tests to proove this but, here's a percentile of my skills.
 
-<style>
-	@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
-	* {
-		font-family: 'Outfit';
-	}
-  .skills {
-    font-family: Arial, sans-serif;
-    max-width: 600px;
-    margin: 20px auto;
-  }
-  .skill-bar {
-    background-color: #f0f0f0;
-    border-radius: 5px;
-    margin: 10px 0;
-    overflow: hidden;
-  }
-  .skill-level {
-    height: 24px;
-    line-height: 24px;
-    color: white;
-    text-align: center;
-    border-radius: 5px;
-  }
-  .html { background-color: #e34c26; }
-  .css { background-color: #264de4; }
-  .scss { background-color: #cd6799; }
-  .js { background-color: #f0db4f; color: black; }
-  .react { background-color: #61dafb; color: black; }
-  .php { background-color: #8993be; }
-  .jquery { background-color: #0769ad; }
-
-</style>
-
 <div class="skills">
-  <h2>Skills</h2>
+  <h2>My Skills</h2>
 	<div>
     <div class="skill-bar">
       <div class="skill-level html" style="width: 95%;">HTML — 95%</div>
@@ -55,13 +23,13 @@ I haven't taken any tests to proove this but, here's a percentile of my skills.
       <div class="skill-level js" style="width: 32%;">JavaScript — 32%</div>
     </div>
     <div class="skill-bar">
-      <div class="skill-level" style="width: 20%; background-color: #61dafb; color: black;">React — 20%</div>
+      <div class="skill-level react" style="width: 20%;">React — 20%</div>
     </div>
-    <div class="skill-bar">
-      <div class="skill-level" style="width: 32%; background-color: #8993be;">PHP — 32%</div>
+    <div class="skill-bar php">
+      <div class="skill-level" style="width: 32%;">PHP — 32%</div>
     </div>
-    <div class="skill-bar">
-      <div class="skill-level" style="width: 33%; background-color: #0769ad;">JQuery — 33%</div>
+    <div class="skill-bar jquery">
+      <div class="skill-level" style="width: 33%;">JQuery — 33%</div>
     </div>
   </div>
 </div>
